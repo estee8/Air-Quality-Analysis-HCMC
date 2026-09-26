@@ -60,22 +60,10 @@ Air pollution is one of the most pressing public health and sustainability chall
 
 ```
 ├── data/               # raw & processed datasets
-├── notebooks/          # Google Colab / Jupyter notebooks
+├── notebooks/          # Google Colab 
 ├── report/             # full project report (PDF)
 └── README.md
 ```
-
-## 👥 Team FIREFLY
-
-| MSSV | Name |
-|---|---|
-| K244161769 | Hồng Trang Anh |
-| K244161770 | Nguyễn Vũ Tường Anh |
-| K244161776 | Nguyễn Quỳnh Duyên |
-| K244161778 | Nguyễn Trần Yên Đan |
-| K244161798 | Đinh Hải Ngân |
-
-Supervised by: **GVHD Trương Quang Nhật**
 
 ## 📚 References
 
