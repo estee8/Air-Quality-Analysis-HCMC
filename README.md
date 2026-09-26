@@ -57,14 +57,6 @@ Air pollution is one of the most pressing public health and sustainability chall
 - `seaborn`, `matplotlib` — visualization
 - `statsmodels` — VIF / multicollinearity diagnostics
 
-## 📁 Repository Structure
-
-```
-├── data/               # raw & processed datasets
-├── notebooks/          # Google Colab 
-├── report/             # full project report (PDF)
-└── README.md
-```
 
 ## 📚 References
 
