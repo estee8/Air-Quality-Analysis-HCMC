@@ -1,6 +1,6 @@
-##Air Quality Data Analysis in Ho Chi Minh City##
-
+**Air Quality Data Analysis in Ho Chi Minh City**
 Data analysis project assessing air pollution levels in Ho Chi Minh City (HCMC), Vietnam, using real sensor data from an air quality monitoring network.
+
 ## 📌 Overview
 
 Air pollution is one of the most pressing public health and sustainability challenges facing large cities worldwide, and HCMC is no exception. This project analyzes air-quality and meteorological data collected from 6 monitoring stations across HCMC to:
